@@ -4,11 +4,14 @@ title: "About"
 author_profile: true
 header:
   image: /images/singed_1.jpg
-  caption: "Photo credit: [Steve Kuei](http://xiaokuayzhi.deviantart.com/art/swirl-mix-swirl-mix-356600577)"
 categories:
   - about
 tags:
-  - me, myself, and I
+  - me myself and I
+feature_row:
+  - url: "/files/resume_090717_sk_long.pdf"
+    btn_class: "btn--primary"
+    btn_label: "CV"
 ---
 
 My name is Steve Kuei; I'm a New Jersey native who has spent the past four years pretending to be Texan,
@@ -20,3 +23,7 @@ As such, this site has everything from purely academic pursuits to origami and s
 
 Thank you for visiting, and I hope at least one of the pages here piques your interest! Feel free to contact me at <a href="mailto:kuei.steve@rice.edu">kuei.steve@rice.edu</a>
 or to come find me in Rice University's George R. Brown Laboratory, in the New Emerging Science and Technology Center.
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
