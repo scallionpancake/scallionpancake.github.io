@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Layout: Header Image (Horizontal)"
 header:
   image: /images/lanterns.jpg
