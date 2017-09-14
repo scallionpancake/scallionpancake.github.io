@@ -1,13 +1,5 @@
 ---
 title: "About"
-layout: single
-permalink:/about/
-header:
-  overlay_image: /images/singed_1.jpg
----
-
----
-title: "About"
 header:
   overlay_image: /images/singed_1.jpg
   caption: "Photo credit: [Steve Kuei](http://xiaokuayzhi.deviantart.com/art/)"
