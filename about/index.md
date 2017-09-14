@@ -1,14 +1,14 @@
 ---
 title: "About"
 header:
-  overlay_image: /images/singed_1.jpg
+  image: /images/singed_1.jpg
   caption: "Photo credit: [Steve Kuei](http://xiaokuayzhi.deviantart.com/art/)"
-  cta_url: "http://xiaokuayzhi.deviantart.com/art/"
 tags:
   - me, myself and i
-
 last_modified_at: 2017-09-14T11:45:09-04:00
+
 ---
+
 My name is Steve Kuei; I'm a New Jersey native who has spent the past four years pretending to be Texan,
  while working with Professor Lisa Biswal at Rice University. Previously, I was a student
 at Princeton University, in the Department of Chemical and Biological Engineering. 
