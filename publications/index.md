@@ -33,7 +33,7 @@ doi:10.1016/j.bpj.2012.01.045
 
 ## presentations:
 
-> ##### Poster: “Rotational regimes nad dynamics of colloidal particle chains”
+> ##### Poster: “Rotational regimes and dynamics of colloidal particle chains”
 > Steve Kuei, Sibani Lisa Biswal.
 > *ACS 90th Colloid & Surface Science Symposium. Boston, MA, June 2016.*
 
