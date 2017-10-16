@@ -13,7 +13,7 @@ tags:
 
 # [From strings to coils: rotational dynamics of DNA-linked colloidal chains.](https://journals.aps.org/prfluids/accepted/ed071Y4cO8112a5e22607941b6fefb072a9966567) 
 >
-> Kuei, Steve, Burke Garza, Sibani Lisa Biswal. Physical Review Fluids, In Press.
+> Kuei, Steve, Burke Garza, Sibani Lisa Biswal. Physical Review Fluids, 2 (2017), 104102.
 
 # [Dynamics and Topology of Flexible Chains in Steady Shear Flows](http://dx.doi.org/10.1088/1367-2630/17/5/053009) 
 >
