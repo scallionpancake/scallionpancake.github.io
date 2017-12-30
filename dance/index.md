@@ -11,4 +11,4 @@ tags:
 
 ## wyldstyl
 
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=5hkiWyKlu5A?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=5hkiWyKlu5A" frameborder="0" allowfullscreen></iframe>
