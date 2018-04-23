@@ -15,7 +15,7 @@ feature_row:
     btn_label: "back to recipes"
 ---
 
-Ribs have always been a staple of any good cookout. For Texans in particular, the ability to produce a mouth-watering rack of pork ribs is a mark of pride for many. Typical recipes will start with a dry rub or simply barbeque sauce; the ribs are then wrapped in foil and baked in the oven until they are tender. We follow a similar idea in this recipe, although the flavors are more reminiscent of Taiwanese-style 三杯鷄 (i.e. tending more on the sweet side, with spicy heat present, but taking a back seat.) Many thanks to mama Tu for teaching me how to make these ribs way back!
+Ribs have always been a staple of any good cookout. For Texans in particular, the ability to produce a mouth-watering rack of pork ribs is a mark of pride for many. Typical recipes will start with a dry rub or simply barbeque sauce; the ribs are then wrapped in foil and baked in the oven until they are tender. We follow a similar idea in this recipe, although the flavors are more reminiscent of Taiwanese-style 三杯鷄 (i.e. tending more on the sweet side, with spicy heat present, but taking a back seat), and the foil packet is almost like simmering the meat in its own little chamber. Many thanks to mama Tu for teaching me how to make these ribs way back!
 
 As a side note, almost everything in this recipe is amenable to experimentation, and the measurements are more rough suggestions than anything else. The only important steps, as far as I've discovered, are to use plenty of brown sugar in the dry rub, and to crimp the foil tightly. For example, try it with apple vinegar in the liquid marinade, or basil and thai chilis in the dry rub. You can also finish the ribs with the foil opened or on the grill, if you prefer a bit more crust on the ribs.
 
@@ -50,7 +50,7 @@ This recipe is for one rack of ribs, although you'll likely have leftover spice 
 8. Bake at 375 F for approximately 2 hours. 
 9. Let rest 10-15 minutes. Unwrap, slice ribs apart, and eat away!
 
-Pictures below!
+## Picture references
 
 This time, I got a pack of ribs from Costco, which turned out to actually contain three full racks. 
 ![pork ribs]({{ site.url }}{{ site.baseurl }}/images/recipes/ribs_1.jpg)

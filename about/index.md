@@ -10,7 +10,7 @@ categories:
 tags:
   - me myself and I
 feature_row:
-  - url: "/files/resume_090717_sk_long.pdf"
+  - url: "/files/resume_032818_sk_long.pdf"
     btn_class: "btn--primary"
     btn_label: "CV"
 ---
