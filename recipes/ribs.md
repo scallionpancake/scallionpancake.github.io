@@ -39,5 +39,5 @@ This recipe makes 4 dozen cookies.
 4. Gradually add dry mixture into the butter-sugar wet blend, mixing with a spatula until combined. Add chocolate chips and nuts until just mixed.
 5. Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.
 
-{% raw %}![alttext]({{ site.url }}{{ site.baseurl }}/images/recipes/ribs.jpg)
-{: .full}{% endraw %}
+![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/recipes/ribs.jpg)
+{: .full}
