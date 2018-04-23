@@ -17,13 +17,20 @@ The traditional recipe combines a dough composed of butter and both brown and wh
 
 This recipe makes 4 dozen cookies.
 
+Ribs have always been a staple of any good cookout. For Texans in particular, the ability to produce a mouth-watering rack of pork ribs is a mark of pride for many. Typical recipes will start with a dry rub or simply barbeque sauce; the ribs are then wrapped in foil and baked in the oven until they are tender. We follow a similar idea in this recipe, although the flavors are more reminiscent of Taiwanese-style 三杯鷄 (i.e. tending more on the sweet side, with spicy heat present, but taking a back seat.)
+
+As a side note, almost everything in this recipe is amenable to experimentation! The only important steps, as far as I've discovered, are to use plenty of brown sugar in the dry rub, and to crimp the foil tightly. For example, try it with apple vinegar in the liquid marinade, or basil in the dry rub. You can also finish the ribs with opened foil or on the grill, if you prefer a bit more crust on the ribs.
+
 ## Ingredients
 
+** Dry rub ** 
 * 2 1/4 cups all-purpose flour
 * 1 teaspoon baking soda
 * 1/2 teaspoon salt
 * 1 cup butter, softened and cut to pieces
 * 1 cup sugar
+
+** Liquid marinade **
 * 1 cup light brown sugar, packed
 * 2 teaspoons vanilla extract
 * 2 large eggs
@@ -40,4 +47,3 @@ This recipe makes 4 dozen cookies.
 5. Drop tablespoon-sized clumps onto un-greased cookie sheets. Bake for 8-12 minutes, or until pale brown. Allow to cool on the pan for a minute or three, then transfer cookies to a wire rack to finish cooling.
 
 ![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/images/recipes/ribs.jpg)
-{: .full}

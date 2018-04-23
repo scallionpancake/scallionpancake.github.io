@@ -2,7 +2,6 @@
 title: "all the flavors"
 layout: splash
 permalink: /nom/
-date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
@@ -14,15 +13,12 @@ feature_row:
   - image_path: /images/recipes/ribs.jpg
     alt: "pork ribs!"
     title: "Baby back ribs"
-    excerpt: 'This is an asian take on traditional baby back ribs.'
+    excerpt: 'This is an asian take on traditional baby back ribs. After being coated with a dry rub, these pork ribs are wrapped in foil and baked until they are tender and flavorful!'
     url: "/recipes/ribs"
     btn_label: "recipe"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-asdf
-
 
 {% include feature_row id="feature_row" type="left" %}
