@@ -33,9 +33,35 @@ doi:10.1016/j.bpj.2012.01.045
 
 ## presentations:
 
+> ##### Poster: “Deterministic and chaotic dynamics of rotating semiflexible particle chains”
+> Steve Kuei, Sibani Lisa Biswal.
+> *Gordon Research Seminar, Gordon Research Conference on Colloidal, Macromolecular, and Polyelectrolyte Solutions. Ventura, CA, Feb. 2018.*
+
+> ##### “From Filaments to Coils: Controlling the dynamics of linked colloidal particle chains”
+> Steve Kuei, Sibani Lisa Biswal.
+> *American Institute of Chemical Engineers Annual Meeting. Minneapolis, MN, Nov. 2017.*
+
+> ##### Poster: “Dynamics of semiflexible colloidal particle chains under rotating magnetic fields”
+> Steve Kuei, Sibani Lisa Biswal.
+> *American Institute of Chemical Engineers Annual Meeting. Minneapolis, MN, Nov. 2017.*
+
+> ##### Poster: “Deterministic and chaotic dynamics of driven colloidal particle chains”
+> Steve Kuei, Sibani Lisa Biswal.
+> *ACS 91st Colloid & Surface Science Symposium. New York, NY, July 2017.*
+> ##### Langmuir Graduate Student Poster Presentation Award
+
+> ##### “Controlling the dynamics of actuated semi-flexible colloidal particle chains”
+> Steve Kuei, Sibani Lisa Biswal.
+> *ACS 91st Colloid & Surface Science Symposium. New York, NY, July 2017.*
+
+> ##### “Dynamics and Rotational Regimes of Semi-flexible colloidal chains”
+> Steve Kuei, Sibani Lisa Biswal.
+> *American Institute of Chemical Engineers Annual Meeting. San FRancisco, CA, Nov. 2016.*
+
 > ##### Poster: “Rotational regimes and dynamics of colloidal particle chains”
 > Steve Kuei, Sibani Lisa Biswal.
 > *ACS 90th Colloid & Surface Science Symposium. Boston, MA, June 2016.*
+> ##### Langmuir Graduate Student Poster Presentation Award
 
 > ##### “Conformations and dynamical regimes of rotating elastic filaments”
 > Steve Kuei, Sibani Lisa Biswal.
