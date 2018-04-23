@@ -9,7 +9,7 @@ header:
   overlay_image: /images/puff_baking.jpg
   caption: "Photo credit: [**Andy Tseng**](https://www.flickr.com/photos/143880046@N08/albums/with/72157694147994041)"
 header:
-  image: /images/puff_baking.jpg
+  image: /images/puffbaking.jpg
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. 
 categories:
