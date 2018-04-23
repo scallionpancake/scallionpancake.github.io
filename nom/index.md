@@ -15,7 +15,7 @@ feature_row:
     alt: "pork ribs!"
     title: "Baby back ribs"
     excerpt: 'This is an asian take on traditional baby back ribs.'
-    url: "#test-link"
+    url: "/recipes/ribs"
     btn_label: "recipe"
     btn_class: "btn--primary"
 ---
