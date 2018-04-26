@@ -40,14 +40,14 @@ This recipe is for one rack of ribs, although you'll likely have leftover spice 
 
 ## Directions
 
-1. Preheat the oven to 375 F, although you can do this after the dry rub.
+1. Preheat the oven to 375° F, although you can do this after the dry rub.
 2. Pat dry the pork ribs.
 3. Mix the dry rub in a bowl, and rub generously into all sides of the ribs; let the ribs sit for 1-2 hours. (you can go longer, but then you should cover and cure in the fridge.)
 4. Prepare to wrap the ribs in foil. I like to make little boats by crimping the edges (see pictures below) to hold liquid in, and wrap foil around the entire contraption afterwards. 
 5. Mix the liquid marinade, and spoon some into each boat (~15 tbsp). I tend to cut racks in half to fit in the oven, with ~7-8 spoonfuls of sauce into each boat. 
 6. (optional) I'll often sprinkle the remaining dry rub over the ribs, and drizzle some honey on top.
 7. Wrap foil tightly, making sure to crimp/seal the packet.
-8. Bake at 375 F for approximately 2 hours. 
+8. Bake at 375° F for approximately 2 hours. 
 9. Let rest 10-15 minutes. Unwrap, slice ribs apart, and eat away!
 
 ## Picture references

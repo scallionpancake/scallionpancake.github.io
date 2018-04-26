@@ -17,8 +17,18 @@ feature_row:
     url: "/recipes/ribs"
     btn_label: "recipe"
     btn_class: "btn--primary"
+feature_row2:
+  - image_path: /images/recipes/eggtarts.jpg
+    alt: "dan ta!"
+    title: "蛋撻: egg tarts"
+    excerpt: 'These pastries are commonly found in bakeries and dim sum restaurants. With a flaky puff pastry shell, and an egg based custard filling, these make for a delicious dessert!'
+    url: "/recipes/eggtarts"
+    btn_label: "recipe"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row" type="left" %}
+
+{% include feature_row2 id="feature_row" type="left" %}
