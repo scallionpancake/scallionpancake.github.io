@@ -15,16 +15,15 @@ feature_row:
     btn_label: "back to recipes"
 ---
 
-As far as I'm aware, egg tarts originated in Europe, and were brought to asia when the Europeans invaded and colonized parts of asia. In particular, the Portuguese brought pastel de nata, which evolved throughout Macau, Hong Kong, etc. To this day, they remain a highly popular dessert in dim sum restaurants and bakeries. As an aside, the Portuguese brûléed version saw an explosion in popularity in Taiwan several years back, and while the stiff competition drove many out of the egg tart business, one unlikely contender remained - Kentucky Fried Chicken. I don't go to KFC often (Texas simply has too many better options for fried chicken), but next time I'm in Taiwan, I'll definitely check it out.
+As far as I'm aware, egg tarts originated in Europe, and were brought to asia when the Europeans invaded and colonized parts of asia. In particular, the Portuguese brought pastel de nata, which evolved throughout Macau, Hong Kong, etc. To this day, they remain a highly popular dessert in dim sum restaurants and bakeries. As an aside, the Portuguese brûléed version saw an explosion in popularity in Taiwan several years back, and while the stiff competition drove many out of the egg tart business, one unlikely contender remained to this day - Kentucky Fried Chicken. I don't go to KFC often (Texas simply has too many better options for fried chicken), but next time I'm in Taiwan, I'll definitely check it out.
 
 Egg tarts aren't particularly difficult to make, but are a little tedious. Two tips that will help: 1). don't skimp on buying nice butter! For this recipe in particular, where the puff pastry shines, you can actually taste a difference. 2). keep the dough as cold as possible at all times. This maintains the puff pastry layers so you get that flaky effect.
 
-Credit for the puff pastry goes to [iHEARTcookinggg; check out her video if you'd prefer a visual aid!](https://www.youtube.com/watch?v=El0QqbL4CW4). The filling is my mom's recipe, and its considerably less sweet than what you'd normally find in bakeries.
+Credit for the puff pastry goes to [iHEARTcookinggg; check out her video if you'd prefer a visual aid!](https://www.youtube.com/watch?v=El0QqbL4CW4). The filling is my mom's recipe, and its considerably less sweet than what you'd normally find in bakeries. [These are the molds that I use](https://www.amazon.com/gp/product/B00S0Z8162); they work extremely well for egg tarts, although cupcake molds work just fine. 
 
 Two batches of the dough and one batch of filling will make about two dozen egg tarts, if you use the same mold.
 
 ## Ingredients
-* you'll want a cookie cutter, and tart molds (or cupcake molds)
 
 ### Butter dough
 * 120 g (1 cup) all-purpose flour
@@ -56,15 +55,20 @@ Two batches of the dough and one batch of filling will make about two dozen egg 
 
 ## Picture references
 
-test test test
-
+Pictures courtesy of [佳平曾/Andy Tseng](https://www.flickr.com/photos/143880046@N08/albums/with/72157694147994041).
 ![]({{ site.url }}{{ site.baseurl }}/images/recipes/eggtarts_1.jpg)
 
+After rolling out the dough the final time, circles are cut out and pressed into molds. You can see the little fork holes in the next image!
+
 ![]({{ site.url }}{{ site.baseurl }}/images/recipes/eggtarts_2jpg)
+
+The egg is slowly filled into each shell. You can see a bucket of ice on the side, which is where I kept the finished tart shells while I was pressing the rest. Again, keeping the dough cold is what preserves those puff pastry layers!
 
 ![]({{ site.url }}{{ site.baseurl }}/images/recipes/eggtarts_3.jpg)
 
 ![]({{ site.url }}{{ site.baseurl }}/images/recipes/eggtarts_4.jpg)
+
+The finished product is delicious while warm, but can be stored for several days in the fridge.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/recipes/eggtarts_5.jpg)
 
