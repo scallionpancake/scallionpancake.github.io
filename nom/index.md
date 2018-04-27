@@ -31,4 +31,3 @@ feature_row2:
 
 {% include feature_row id="feature_row" type="left" %}
 
-{% include feature_row2 id="feature_row" type="left" %}
