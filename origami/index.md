@@ -5,6 +5,8 @@ categories:
   - origami
 tags:
   - origami
+intro: 
+  - excerpt: paper between folds  
 gallery3:
   - url: /images/origami/roses_0.jpg
     image_path: /images/origami/roses_0.jpg
@@ -51,5 +53,6 @@ gallery3:
     alt: "--"
     title: "purple orchids, diagrammed by Lafosse and Alexander."    
 ---
+{% include feature_row id="intro" type="center" %}
 
 {% include gallery id="gallery3" caption="This is a second gallery example with images hosted externally." %}
