@@ -1,5 +1,5 @@
 ---
-title: "Origami"
+title: "origami"
 permalink: /origami/
 categories:
   - origami
@@ -18,37 +18,37 @@ gallery:
     image_path: /images/origami/singed_1.jpg
     alt: "trololol"
     title: "singed! mix, mix, swirl, mix..."
-  - url: /images/origami/k2.jpg
-    image_path: /images/origami/k2.jpg
-    alt: "k2"
-    title: "k2, by Robert Lang."   
-  - url: /images/origami/versailles_0.jpg
-    image_path: /images/origami/versailles_0.jpg
-    alt: "test2"
-    title: "Versailles box, by Tadashi Mori" 
-  - url: /images/origami/versailles_1.jpg
-    image_path: /images/origami/versailles_1.jpg
-    alt: "test2"
-    title: "Versailles box, by Tadashi Mori"             
-  - url: /images/origami/purpleorchids.jpg
-    image_path: /images/origami/purpleorchids.jpg
-    alt: "test2"
-    title: "purple orchids, diagrammed by Lafosse and Alexander."
-  - url: /images/origami/taperedbox.png
-    image_path: /images/origami/taperedbox.png
-    alt: "test2"
-    title: "a tapered box, by Tomoko Fuse"
-  - url: /images/origami/truncated_icosahedron.jpg
-    image_path: /images/origami/truncated_icosahedron.jpg
-    alt: "test2"
-    title: "truncated icosahedron, by Tomoko Fuse"
-  - url: /images/origami/buckyball.jpg
-    image_path: /images/origami/buckyball.jpg
-    alt: "test2"
-    title: "a buckyball, made from PHIZZ units"  
-  - url: /images/origami/ball.jpg
-    image_path: /images/origami/ball.jpg
-    alt: "test2"
-    title: "a six-piece ball from post-it notes."                             
 ---
-{% include gallery id="gallery1" class="full" caption="This is a third gallery example with two images and fills the entire content container." %}
+
+These are gallery tests for image wrapped in `<figure>` elements.
+
+To place a gallery add the necessary YAML Front Matter:
+
+```yaml
+gallery:
+  - url: /assets/images/unsplash-gallery-image-1.jpg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+```
+
+And then drop-in the gallery include --- gallery `caption` is optional.
+
+```liquid
+{% raw %}{% include gallery caption="This is a sample gallery with **Markdown support**." %}{% endraw %}
+```
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
