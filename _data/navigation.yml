@@ -2,8 +2,8 @@
 main:
   - title: "about"
     url: /about/
-  - title: "academic"
-    url: /academic/
+  - title: "research"
+    url: /research/
   - title: "publications"
     url: /publications/
   - title: "blog"
