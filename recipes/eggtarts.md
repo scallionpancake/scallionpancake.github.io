@@ -55,12 +55,12 @@ Two batches of the dough and one batch of filling will make about two dozen egg 
 
 ## Picture references
 
-Pictures courtesy of [佳平曾/Andy Tseng](https://www.flickr.com/photos/143880046@N08/albums/with/72157694147994041).
+Pictures courtesy of [曾佳平/Andy Tseng](https://www.flickr.com/photos/143880046@N08/albums/with/72157694147994041).
 ![]({{ site.url }}{{ site.baseurl }}/images/recipes/eggtarts_1.jpg)
 
 After rolling out the dough the final time, circles are cut out and pressed into molds. You can see the little fork holes in the next image!
 
-![]({{ site.url }}{{ site.baseurl }}/images/recipes/eggtarts_2jpg)
+![]({{ site.url }}{{ site.baseurl }}/images/recipes/eggtarts_2.jpg)
 
 The egg is slowly filled into each shell. You can see a bucket of ice on the side, which is where I kept the finished tart shells while I was pressing the rest. Again, keeping the dough cold is what preserves those puff pastry layers!
 
