@@ -24,32 +24,32 @@ gallery3:
     title: "k2, by Robert Lang."   
   - url: /images/origami/versailles_0.jpg
     image_path: /images/origami/versailles_0.jpg
-    alt: "test2"
+    alt: "--"
     title: "Versailles box, by Tadashi Mori" 
-  - url: /images/origami/versailles_1.jpg
-    image_path: /images/origami/versailles_1.jpg
-    alt: "test2"
-    title: "Versailles box, by Tadashi Mori"             
-  - url: /images/origami/purpleorchids.jpg
-    image_path: /images/origami/purpleorchids.jpg
-    alt: "test2"
-    title: "purple orchids, diagrammed by Lafosse and Alexander."
   - url: /images/origami/taperedbox.png
     image_path: /images/origami/taperedbox.png
-    alt: "test2"
+    alt: "--"
     title: "a tapered box, by Tomoko Fuse"
   - url: /images/origami/truncated_icosahedron.jpg
     image_path: /images/origami/truncated_icosahedron.jpg
-    alt: "test2"
+    alt: "--"
     title: "truncated icosahedron, by Tomoko Fuse"
   - url: /images/origami/buckyball.jpg
     image_path: /images/origami/buckyball.jpg
-    alt: "test2"
+    alt: "--"
     title: "a buckyball, made from PHIZZ units"  
   - url: /images/origami/ball.jpg
     image_path: /images/origami/ball.jpg
-    alt: "test2"
+    alt: "--"
     title: "a six-piece ball from post-it notes." 
+  - url: /images/origami/versailles_1.jpg
+    image_path: /images/origami/versailles_1.jpg
+    alt: "--"
+    title: "Versailles box, by Tadashi Mori"             
+  - url: /images/origami/purpleorchids.jpg
+    image_path: /images/origami/purpleorchids.jpg
+    alt: "--"
+    title: "purple orchids, diagrammed by Lafosse and Alexander."    
 ---
 
 {% include gallery id="gallery3" caption="This is a second gallery example with images hosted externally." %}
