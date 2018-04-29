@@ -51,4 +51,4 @@ gallery:
     alt: "test2"
     title: "a six-piece ball from post-it notes."                             
 ---
-{% include gallery id="gallery" caption="testing!" %}
+{% include gallery id="gallery1" class="full" caption="This is a third gallery example with two images and fills the entire content container." %}
