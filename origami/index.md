@@ -5,7 +5,7 @@ categories:
   - origami
 tags:
   - origami
-gallery:
+gallerysteve:
   - url: /images/origami/roses_0.jpg
     image_path: /images/origami/roses_0.jpg
     alt: "a rose is a rose is a rose"
@@ -75,9 +75,9 @@ And place it like so:
 {% raw %}{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}{% endraw %}
 ```
 
-{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallerysteve" caption="This is a second gallery example with images hosted externally." %}
 
 And for giggles one more gallery just to make sure this works. To fill page content container add `class="full"`.
 
-{% include gallery id="gallery3" class="full" caption="This is a third gallery example with two images and fills the entire content container." %}
+{% include gallery id="gallerysteve" class="full" caption="This is a third gallery example with two images and fills the entire content container." %}
 
