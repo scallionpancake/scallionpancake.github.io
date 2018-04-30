@@ -6,7 +6,7 @@ categories:
 tags:
   - origami
 intro: 
-  - excerpt: paper between folds  
+  - excerpt: "It had neither one side, which would be conventional, nor two, which would be unexpected, but several, which was, of course, impossible." -*V.E. Schwab*  
 gallery3:
   - url: /images/origami/roses_0.jpg
     image_path: /images/origami/roses_0.jpg
@@ -55,4 +55,4 @@ gallery3:
 ---
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery id="gallery3" caption="This is a second gallery example with images hosted externally." %}
+{% include gallery id="gallery3" caption="Origami I've folded over the years." %}
