@@ -6,7 +6,8 @@ categories:
 tags:
   - origami
 intro: 
-  - excerpt: "It had neither one side, which would be conventional, nor two, which would be unexpected, but several, which was, of course, impossible." -*V.E. Schwab*  
+  - excerpt: It had neither one side, which would be conventional, nor two, which would be unexpected, but several, which was, of course, impossible. -*V.E. Schwab* 
+ 
 gallery3:
   - url: /images/origami/roses_0.jpg
     image_path: /images/origami/roses_0.jpg
