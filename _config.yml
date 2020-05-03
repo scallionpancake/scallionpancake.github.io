@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Steve Kuei"
-  avatar           : /images/nosepic.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/nosepic2.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Under construction! (as of 5/2020)."
   location         : "Rockville, MD"
   email            : steve.kuei@nist.gov
