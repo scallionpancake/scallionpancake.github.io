@@ -33,6 +33,14 @@ doi:10.1016/j.bpj.2012.01.045
 
 ## presentations:
 
+> ##### “Probing the link between the microstructural behavior and bulk response of rod-like viruses at high shear rates via capillary rheo-SANS”
+> Steve Kuei, Steven D. Hudson.
+> *Selected talk at Gordon Research Seminar, and poster at Gordon Research Conference on Colloidal, Macromolecular, and Polyelectrolyte Solutions. Ventura, CA, Feb. 2020.*
+
+> ##### “Coiling dynamics of semiflexible chains under rotational fields”
+> Steve Kuei, Sibani Lisa Biswal.
+> *Society of Rheology Annual Meeting. Raleigh, NC, Oct. 2019.*
+
 > ##### Poster: “Deterministic and chaotic dynamics of rotating semiflexible particle chains”
 > Steve Kuei, Sibani Lisa Biswal.
 > *Gordon Research Seminar, Gordon Research Conference on Colloidal, Macromolecular, and Polyelectrolyte Solutions. Ventura, CA, Feb. 2018.*
