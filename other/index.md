@@ -14,7 +14,7 @@ feature_row:
     alt: "nom"
     title: "in the kitchen"
     excerpt: "When experiments in the lab fail, I turn to the kitchen. Luckily, edible experiments are often tasty even if they fail."
-    url: "/recipes/"
+    url: "/nom/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /images/bar_origami.jpg
