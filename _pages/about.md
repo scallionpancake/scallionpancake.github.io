@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:steve@rapidliquidprint.co"><i class="fa fa-envelope"></i>steve@rapidliquidprint.co</p>
-    <p><a href="https://scholar.google.com/citations?user=GRy8TgkAAAAJ&hl=en"><i class="fa fa-envelope"></i>google scholar</p>
-    <p><a href="https://www.linkedin.com/in/stevekuei/"><i class="fa fa-envelope"></i>linkedin</p>
+    <p><a href="mailto:kuei.steve@gmail.com"><i class="fa fa-envelope"></i> kuei.steve@gmail.com</p>
+    <p><a href="https://scholar.google.com/citations?user=GRy8TgkAAAAJ&hl=en"><i class="fa fa-book"></i> google scholar</p>
+    <p><a href="https://www.linkedin.com/in/stevekuei/"><i class="fa fa-linkedin"></i> linkedin</p>
 
 news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
