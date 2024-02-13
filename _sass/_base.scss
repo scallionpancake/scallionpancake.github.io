@@ -19,6 +19,11 @@ strong {
   color: var(--global-text-color);
 }
 
+.me {
+  color: var(--global-theme-color);
+  background-color: var(--global-light-color);
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
