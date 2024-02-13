@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: other
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: dance
+    permalink: /dance/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: kitchen
+    permalink: /nom/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: origami
+    permalink: /origami/
 ---
