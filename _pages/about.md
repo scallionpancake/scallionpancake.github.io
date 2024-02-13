@@ -9,14 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="mailto:steve@rapidliquidprint.co"><i class="fa fa-envelope"></i>steve@rapidliquidprint.co</p>
+    <p><a href="https://scholar.google.com/citations?user=GRy8TgkAAAAJ&hl=en"><i class="fa fa-envelope"></i>google scholar</p>
+    <p><a href="https://www.linkedin.com/in/stevekuei/"><i class="fa fa-envelope"></i>linkedin</p>
 
 news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
-Hello, world! this is under massive reconstruction right now.
+Hello! this is under massive reconstruction right now.
 
 My name is Steve Kuei; I'm a New Jersey native, and a researcher, a dancer, and an amateur cook - ostensibly, in that order. I am a material scientist in Boston specializing in complex fluid rheology, where I currently work on the fluid properties that allow for fluid-in-fluid 3D printing (or embedded printing) to operate at high speeds and great print fidelity.
 
