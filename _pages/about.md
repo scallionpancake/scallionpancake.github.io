@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: material scientist at <a href='https://www.rapidliquidprint.co'>Rapid Liquid Print</a> | colloidal physics and rheology
 
 profile:
   align: right
@@ -14,14 +14,16 @@ profile:
     <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hello, world! this is under massive reconstruction right now.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Steve Kuei; I'm a New Jersey native, and a researcher, a dancer, and an amateur cook - ostensibly, in that order. I am a material scientist in Boston specializing in complex fluid rheology, where I currently work on the fluid properties that allow for fluid-in-fluid 3D printing (or embedded printing) to operate at high speeds and great print fidelity.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I began my research career as an undergraduate at Princeton University, where I studied fiber knotting in fluid flow for my senior thesis with Professor Howard Stone. I then moved south, working on colloidal single fiber dynamics with Professor Lisa Biswal at Rice University. More recently, I was a postdoctoral fellow at the Gaithersburg campus of NIST, working with Dr. Steven D. Hudson on rodlike-fluid rheology and microstructure. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I live by the phrase, "什麽略懂一些，生活就彩虹一些"; loosely translated, "if you learn a little bit of everything, your life will be that much more colorful."
+As such, you'll find everything here from my academic endeavors to unresolved vectors of thought and miscellaneous pursuits.
+
+Thank you for visiting, and I hope at least one of the pages here piques your interest! Feel free to contact me at <a href="mailto:kuei.steve@gmail.com">kuei.steve@gmail.com</a>
+or to come find me in Boston :)
