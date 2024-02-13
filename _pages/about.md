@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p><a href="mailto:kuei.steve@gmail.com"><i class="fa fa-envelope"></i> kuei.steve@gmail.com</p>
     <p><a href="https://scholar.google.com/citations?user=GRy8TgkAAAAJ&hl=en"><i class="fa fa-book"></i> google scholar</p>
-    <p><a href="https://www.linkedin.com/in/stevekuei/"><i class="fa fa-linkedin-square"></i> linkedin</p>
+    <p><a href="https://www.linkedin.com/in/stevekuei/"><i class="fab fa-linkedin-square"></i> linkedin</p>
 
 news: true # includes a list of news items
 social: true # includes social icons at the bottom of the page
