@@ -14,7 +14,7 @@ profile:
     <p><a href="https://www.linkedin.com/in/stevekuei/"><i class="fab fa-linkedin-square"></i> linkedin</p>
 
 news: true # includes a list of news items
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 Hello! this is under massive reconstruction right now.
 
