@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-01-08 
 inline: true
 related_posts: false
 ---
 
-Test announcement
+Moved to Boston!
