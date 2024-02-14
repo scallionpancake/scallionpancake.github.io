@@ -13,10 +13,10 @@ profile:
     <p><a href="https://scholar.google.com/citations?user=GRy8TgkAAAAJ&hl=en"><i class="fa fa-book"></i> google scholar</p>
     <p><a href="https://www.linkedin.com/in/stevekuei/"><i class="fab fa-linkedin"></i> linkedin</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 social: false # includes social icons at the bottom of the page
 
-display_categories: [work, fun]
+display_categories: [academic, avocation]
 ---
 Hello! this is under massive reconstruction right now.
 
