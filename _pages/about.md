@@ -15,6 +15,8 @@ profile:
 
 news: true # includes a list of news items
 social: false # includes social icons at the bottom of the page
+
+display_categories: [work, fun]
 ---
 Hello! this is under massive reconstruction right now.
 
