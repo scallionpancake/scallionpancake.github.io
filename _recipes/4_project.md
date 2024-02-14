@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://www.skuei.com/research/
+title: project 4
+description: another without an image
+img:
 importance: 3
-category: academic
+category: avocation
 ---
 
 Every project has a beautiful feature showcase page.
