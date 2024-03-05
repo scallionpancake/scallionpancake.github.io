@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: in the kitchen
+description: nom
+img: assets/img/recipes/porkbelly_bowl2.jpg
 importance: 3
 category: avocation
 ---

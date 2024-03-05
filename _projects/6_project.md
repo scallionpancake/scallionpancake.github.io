@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: on the dance floor
+description: shut up and dance with me
+img: assets/img/bar_dance.jpg
 importance: 4
 category: avocation
 ---

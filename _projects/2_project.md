@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: colloidal chains
+description: wiggle
+img: assets/img/colloid_chains_preview.jpg
 importance: 2
 category: academic
 giscus_comments: true
