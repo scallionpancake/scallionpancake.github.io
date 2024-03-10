@@ -2,7 +2,7 @@
 layout: page
 title: rod-like fluids
 description: capillary rheoSANS
-img: assets/img/7.jpg
+img: assets/img/research/FdAFM.png
 redirect: https://www.skuei.com/research/
 importance: 3
 category: academic

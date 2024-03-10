@@ -1,8 +1,8 @@
 ---
 layout: page
 title: on paper
-description: origami
-img: assets/img/singed_1.jpg
+description: 
+img: assets/img/k_2cropped.jpg
 importance: 3
 category: avocation
 ---

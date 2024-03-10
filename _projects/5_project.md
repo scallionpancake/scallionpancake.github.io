@@ -1,7 +1,7 @@
 ---
 layout: page
 title: in the kitchen
-description: nom
+description: 
 img: assets/img/recipes/porkbelly_bowl2.jpg
 importance: 3
 category: avocation
