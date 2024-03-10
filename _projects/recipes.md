@@ -1,9 +1,9 @@
 ---
 layout: page
-title: on the dance floor
+title: in the kitchen
 description: 
-img: assets/img/bar_dance.jpg
-importance: 4
+img: assets/img/recipes/porkbelly_bowl2.jpg
+importance: 6
 category: avocation
 ---
 
