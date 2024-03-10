@@ -2,7 +2,7 @@
 layout: page
 title: Rapid Liquid Print
 description: embedded additive manufacturing
-img: assets/img/bar_dance.jpg
+img: assets/img/research/danteprint.gif
 importance: 4
 category: academic
 ---
