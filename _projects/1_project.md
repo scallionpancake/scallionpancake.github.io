@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Knots in flow
+description: whether or (k)not fluid flow can entangle a flexible fiber
 img: assets/img/12.jpg
 importance: 1
 category: academic

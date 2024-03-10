@@ -1,7 +1,7 @@
 ---
 layout: page
 title: colloidal chains
-description: wiggle
+description: magnetically actuated bead-chains
 img: assets/img/colloid_chains_preview.jpg
 importance: 2
 category: academic

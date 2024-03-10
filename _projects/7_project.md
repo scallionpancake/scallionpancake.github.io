@@ -1,10 +1,10 @@
 ---
 layout: page
-title: on the dance floor
-description: 
+title: Rapid Liquid Print
+description: embedded additive manufacturing
 img: assets/img/bar_dance.jpg
 importance: 4
-category: avocation
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.
