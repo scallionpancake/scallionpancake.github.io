@@ -2,7 +2,7 @@
 layout: page
 title: Knots in flow
 description: whether or (k)not fluid flow can entangle a flexible fiber
-img: assets/img/12.jpg
+img: assets/img/research/knotchain.png
 importance: 1
 category: academic
 related_publications: true
