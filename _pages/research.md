@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+---
 testing! research to go here. 
 
 In middle school, I began to learn to play chinese yoyo, which is a juggling prop consisting of a pair of handsticks, a string connecting the two, and the yoyo itself. I've long held a fascination with the motion of the strings, as well as impossible 'magic knots', such as the trick known as '金蝉脱壳'. This has fed into my academic interests and projects, which revolve around colloidal physics and rheology, spanning from experimental single fiber dynamics and topology, to Brownian dynamics and hydrodynamics simulations.
