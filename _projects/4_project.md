@@ -2,7 +2,7 @@
 layout: page
 title: on paper
 description: 
-img: assets/img/k_2cropped.jpg
+img: assets/img/k2_cropped.jpg
 importance: 3
 category: avocation
 ---
