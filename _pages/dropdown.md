@@ -5,12 +5,13 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: dance
-    permalink: /dance/
+  - title: origami
+    permalink: /projects/origami/
   - title: divider
   - title: kitchen
-    permalink: /nom/
+    permalink: /projects/recipes/
   - title: divider
-  - title: origami
-    permalink: /origami/
+  - title: dance
+    permalink: /projects/dance/
+
 ---
