@@ -14,7 +14,9 @@ As a side note, almost everything in this recipe is amenable to experimentation,
 
 This recipe is for one rack of ribs, although you'll likely have leftover spice rub and marinade.
 
-## Ingredients
+---
+
+## **Ingredients**
 
 * 1 rack of pork ribs (baby back)
 
@@ -30,6 +32,8 @@ This recipe is for one rack of ribs, although you'll likely have leftover spice 
 * 2-3 tbsp sesame oil
 * 3-4 tbsp shaoxin wine
 * 1-2 tbsp mirin
+
+---
 
 ## Directions
 

@@ -18,7 +18,9 @@ references:
 * [woks of life](https://thewoksoflife.com/braised-pork-belly-dong-po-rou/)
 * [my insta](https://www.instagram.com/kuei.kitchen/)
 
-## ingredients
+---
+
+## **ingredients**
 
 * pork belly - hmart and similar often sell it as two big hunks, ~3 lbs
 
@@ -42,7 +44,9 @@ references:
 * fried shallots. 滷肉飯 recipes tend to use this.
 * peanut butter, ~1 tbsp or less
 
-## Directions
+---
+
+## **Directions**
 
 1. start by boiling water in a pot. add a few slices of ginger, and blanch the pork belly ~15-20 minutes. drain the pork belly on a plate, and put in the freezer for ~1/2 hour to firm up.
 2. the chilled pork belly should be easier to cut, and you have a wide choice of form - for normal hong shao rou, go with cubes around 1-2 inches, for dong po rou, go with giant squares, for lu rou fan, cut into small slivers. The key is for each piece to have some skin, some fat, and some lean meat, i.e. the 'five layers'
