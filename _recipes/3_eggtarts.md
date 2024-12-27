@@ -3,7 +3,6 @@ layout: page
 title: egg tarts
 description: 蛋撻
 img: assets/img/recipes/eggtarts.jpg
-redirect: https://unsplash.com
 importance: 3
 category: food
 ---
@@ -14,7 +13,9 @@ Credit for the puff pastry goes to [iHEARTcookinggg; check out her video if you'
 
 Two batches of the dough and one batch of filling will make about two dozen egg tarts, if you use the same mold.
 
-## Ingredients
+---
+
+## **Ingredients**
 
 ### Butter dough
 * 120 g (1 cup) all-purpose flour
@@ -31,7 +32,9 @@ Two batches of the dough and one batch of filling will make about two dozen egg 
 * 4 eggs
 * 75 g (1/3 cup) granulated sugar
 
-## Directions
+---
+
+## **Directions**
 
 1. Mix the AP flour and butter until it turns into a dough. A food processor helps, but it can be done with a spatula and some brute force. Wrap in saran wrap and keep it in the fridge until you pull it out! It helps to shape it into a roughly square shape.
 2. Mix the AP flour, egg yolks, and water, and mix until it forms a dough. 
