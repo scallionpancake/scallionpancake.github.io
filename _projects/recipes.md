@@ -9,6 +9,8 @@ category: avocation
 display_categories: [food]
 ---
 
+>“Welcome to a new taste,” Logan said to her, a mischievous joy in his eyes. “It’s all about the balance of the flavors. The Chinese know that you cannot avoid having things be sweet, sour, bitter, hot, salty, mala, and whiskey-smooth all at the same time — well, actually the Chinese don’t know about whiskey, but you understand my point.” -*Ken Liu, 'All the Flavors'*
+
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
