@@ -9,29 +9,25 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: ph.D
       institution: Rice University
-      year: 2019
+      year: 2013 - 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Houston, TX
+        - Chemical and Biomolecular Engineering
+    - title: BSE
+      institution: Princeton University
+      year: 2008-2012
       description:
-        - Description 1.
-        - Description 2.
+        - Chemical and Biological Engineering
+        - Certificates in Engineering Physics and Materials Science
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Lead Material Scientist
+      institution: Rapid Liquid Print
+      year: 2023-present
       description:
         - Description 1.
         - Description 2.
