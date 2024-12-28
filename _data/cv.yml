@@ -36,31 +36,26 @@
       year: 2023-present
       description:
         - Working on the embedded 3D printing of soft, flexible materials. 
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2018
-      items: NRC Postdoctoral Research Associateship Award
+      title: NRC Postdoctoral Research Associateship Award
       description:
         - National Research Council
         - Awarded through a national competition to research scientists and engineers of unusual promise and ability to perform advanced research related to the NIST mission.
     - year: 2017, 2016
-      items: Lamgmuir Graduate Student Poster Presentation Winner
+      title: Langmuir Graduate Student Poster Presentation Winner
         - ACS Colloids
         - Awarded to the three/five (2017/2016) best poster presentations at the ACS Colloids 2017/2016 meeting.
     - year: 2015
-      items: Riki Kobayashi Fellowship Award
+      title: Riki Kobayashi Fellowship Award
       description:
         - Rice University
-        - Presented for outstanding Ph.D Thesis Proposal entitled: “Dynamics of magnetically actuated colloidal particle chains”. Awarded to one thesis proposal in the department per year, by the ChBE Graduate Studies Committee.
+        - Presented for outstanding Ph.D Thesis Proposal entitled, “Dynamics of magnetically actuated colloidal particle chains”. Awarded to one thesis proposal in the department per year, by the ChBE Graduate Studies Committee.
     - year: 2015, 2014, 2013
-      items: Chemical Engineering Dept. Teaching Assistant Award
+      title: Chemical Engineering Dept. Teaching Assistant Award
       description:
         - Rice University
         - Awarded to two Teaching Assistants every year, for dedication, patience, and knowledge of course material, as chosen by the Junior Class in Fall 2015 and Fall 2014 (CHBE 401), and the Senior Class in Fall 2013 (CHBE 443).
