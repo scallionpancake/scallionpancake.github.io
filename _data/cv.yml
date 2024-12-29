@@ -4,7 +4,7 @@
     - name: Full Name
       value: Steve Kuei
     - name: Email
-      value: steve@rapidliquidprint.com
+      value: [steve@rapidliquidprint.com](mailto:steve@rapidliquidprint.com)
     - name: Interests
       value: complex fluid rheology, colloidal physics, single fiber dynamics and topology, Brownian dynamics and hydrodynamics simulations
     - name: Location
@@ -32,7 +32,7 @@
   type: time_table
   contents:
     - title: Lead Material Scientist
-      institution: Rapid Liquid Print
+      department: Rapid Liquid Print
       year: 2023-present
       description:
         - Working on the embedded 3D printing of soft, flexible materials. 
@@ -47,6 +47,7 @@
         - Awarded through a national competition to research scientists and engineers of unusual promise and ability to perform advanced research related to the NIST mission.
     - year: 2017, 2016
       title: Langmuir Graduate Student Poster Presentation Winner
+      description:
         - ACS Colloids
         - Awarded to the three/five (2017/2016) best poster presentations at the ACS Colloids 2017/2016 meeting.
     - year: 2015
